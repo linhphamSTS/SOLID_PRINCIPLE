@@ -5,16 +5,6 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleReponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{4A8E7D72-A4F6-49AF-A7D8-18795469CD20}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{432B913F-E532-4486-8FC3-7AD010E41D80}"
-	ProjectSection(SolutionItems) = preProject
-		Document\Dependency-Inversion-Principle.pptx = Document\Dependency-Inversion-Principle.pptx
-		Document\Interface-Segregation-Principle.pptx = Document\Interface-Segregation-Principle.pptx
-		Document\Liskov-Subsitutation-Principle.pptx = Document\Liskov-Subsitutation-Principle.pptx
-		Document\Open-Closed-Principle.pptx = Document\Open-Closed-Principle.pptx
-		Document\Single-responsibility-principle.pptx = Document\Single-responsibility-principle.pptx
-		Document\SOLID_INTRODUCE.pptx = Document\SOLID_INTRODUCE.pptx
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{DB51EC38-A3B8-4017-A7BF-1F23B28114AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstutitionPrinciple", "LiskovSubstutitionPrinciple\LiskovSubstutitionPrinciple.csproj", "{4B676A76-A5B0-4967-A234-DDC6BC32E00C}"
